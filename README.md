@@ -3,7 +3,7 @@
 
 <details>
 <summary> 2022년 03월 4주차(21일 ~ 27일)</summary>
-  <div markdown="1">
+<div markdown="1">
 
   [발표자료 보기](https://docs.google.com/presentation/d/1txnX7qhCelYDFKW065Su_CtoUs6H-O--peBlYpHlvTU/edit?usp=sharing)
   ### 기획 & 디자인 
@@ -29,5 +29,5 @@
   - Git Organization 생성
   - 히스토리 작성 시작
 
-  </div>
-<details>
+</div>
+</details>
