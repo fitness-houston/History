@@ -5,7 +5,7 @@
 <summary> 2022년 03월 4주차(21일 ~ 27일)</summary>
 <div markdown="1">
 
-  [발표자료 보기](https://docs.google.com/presentation/d/1txnX7qhCelYDFKW065Su_CtoUs6H-O--peBlYpHlvTU/edit?usp=sharing)
+  [발표자료 보기](https://www.notion.so/jungjoojjang/948b5372867747d8a890978761294e20#eff77e4d5db2454b925b14716dd25a8c)
   ### 기획 & 디자인 
   - 세부 기획 확립
   - iOS UI 디자인 작업 진행 중
