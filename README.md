@@ -31,3 +31,30 @@
 
 </div>
 </details>
+
+<details>
+<summary> 2022년 03월 5주차(28일 ~ 4월 3일)</summary>
+<div markdown="1">
+  ### 기획 & 디자인 
+  - 다크모드 지원 확정
+  - UI 디자인 완료
+    
+  ### iOS
+  - 모든 화면 UI 작업 완료
+  - 파이어베이스 연동 완료
+    - 로그인, 로그아웃, 회원 가입, 회원 탈퇴 완료
+  - 회원가입 email, password Valid 체크
+  - Lottie 라이브러리로 로딩 화면 퀄리티 보완 작업
+
+  ### Server
+  - AWS 환경 세팅
+  - Flask 학습 및 구상
+
+  ### Deep Learning
+  - AWS 환경 세팅
+  - 인스턴스 내 환경 세팅
+  - 전처리 3D 모델링 변환 전 DB 생성
+  - 인스턴스 내 3D 모델링 테스트 진행 중
+  
+</div>
+</details>
